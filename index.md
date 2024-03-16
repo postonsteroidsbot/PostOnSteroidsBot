@@ -3,12 +3,12 @@ title: PostOnSteroidsBot
 layout: home
 ---
 
-{:toc}  
+
 
 
 
 # @PostOnSteroidsBot в Telegram 
-
+{:toc}  
 
   
 ## Разберемся с терминологией
