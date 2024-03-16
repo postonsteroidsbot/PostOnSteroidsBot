@@ -8,8 +8,10 @@ layout: home
 
 
 # @PostOnSteroidsBot в Telegram 
-{:toc}  
+{: .no_toc }
 
+1. TOC
+{:toc}
   
 ## Разберемся с терминологией
 
