@@ -230,7 +230,7 @@ DALL·E очень хорошо умеет создавать фотографи
 Ниже приведены слова, которые могут быть полезны для создания фотографий.  
 
 **Ракурс камеры: близость**  
-|                  |          |             |           |                    |
+| extreme close-up | close-up | medium shot | long shot | extreme long shot  |
 | ---------------- | -------- | ----------- | --------- | ------------------ |
 | extreme close-up | close-up | medium shot | long shot | extreme long shot  |
 |                  |          | mid-shot    | wide shot | extreme wide shot  |
