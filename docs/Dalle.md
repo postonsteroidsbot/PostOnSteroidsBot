@@ -1,8 +1,7 @@
 ---
-title: Создание картинок
+title: Создание картинок в Dalle
 layout: home
 nav_order: 2
-permalink: /docs/dalle
 ---
 
 # Создание картинок с помощью текстовых запросов в DALL·E 3
