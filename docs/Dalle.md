@@ -299,7 +299,7 @@ DALL·E все это умеет и знает, и даже больше, чем
 Вы можете подписаться [на чат поддержки @PostOnSteroidsBot](https://t.me/postonsteroidschat) - там автоматически публикуются картинки с запросами, которые выполнил DALL·E для пользователей @PostOnSteroidsBot. Картинки ищите по тегу: #картинкаDALL·E3.
 
 Также есть несколько англоязычных ресурсов:
-https://generrated.com/
-https://dallery.gallery
-https://www.dallewizard.com/
-https://www.reddit.com/r/dalle2
+[https://generrated.com/](https://generrated.com/)  
+[https://dallery.gallery](https://dallery.gallery)  
+[https://www.dallewizard.com/](https://www.dallewizard.com/)
+[https://www.reddit.com/r/dalle2](https://www.reddit.com/r/dalle2)
