@@ -1,6 +1,6 @@
 ---
-title: PostBot на стероидах
-layout: PostBot на стероидах
+title: Home
+layout: home
 ---
 
 {:toc}  
