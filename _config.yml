@@ -12,16 +12,16 @@ callouts:
   highlight:
     color: yellow
   important:
-    title: Important
+    #title: Important
     color: blue
   new:
-    title: New
+    #title: New
     color: green
   note:
-    title: Note
+    #title: Note
     color: purple
   warning:
-    title: Warning
+    #title: Warning
     color: red
     
 kramdown:
