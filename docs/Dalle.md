@@ -230,13 +230,15 @@ DALL·E очень хорошо умеет создавать фотографи
 Ниже приведены слова, которые могут быть полезны для создания фотографий.  
 
 **Ракурс камеры: близость**  
-| extreme close-up | close-up | medium shot | long shot | extreme long shot  |
+
+|                  |          |             |           |                    |
 | ---------------- | -------- | ----------- | --------- | ------------------ |
 | extreme close-up | close-up | medium shot | long shot | extreme long shot  |
 |                  |          | mid-shot    | wide shot | extreme wide shot  |
 |                  |          | waist shot  | full shot | X 'in the distance |
 
-**Ракурс камеры: позиция**
+**Ракурс камеры: позиция**  
+
 |                   |                |                   |              |                        |
 | ----------------- | -------------- | ----------------- | ------------ | ---------------------- |
 | overhead view     | low angle      | aerial view       | tilted frame | over-the-shoulder shot |
@@ -245,7 +247,8 @@ DALL·E очень хорошо умеет создавать фотографи
 | high angle        |                |                   |              |                        |
 | crane shot        |                |                   |              |                        |
 
-**Настройки камеры и объектива**
+**Настройки камеры и объектива**  
+
 |                    |                    |                         |                        |             |
 | ------------------ | ------------------ | ----------------------- | ---------------------- | ----------- |
 | fast shutter speed | slow shutter speed | bokeh                   | tilt shift photography | motion blur |
@@ -260,7 +263,8 @@ DALL·E очень хорошо умеет создавать фотографи
 | shot from afar     | Sigma 105mm F2.8 |                       |               | 35mm                |
 | feels 'voyeuristic |                  |                       |               |                     |
 
-**Освещение: естественное + наружное**
+**Освещение: естественное + наружное**  
+
 | Golden hour             | Blue hour          | Midday                  | Overcast      |
 | ----------------------- | ------------------ | ----------------------- | ------------- |
 | dusk                    | twilight           | harsh overhead sunlight | flat lighting |
@@ -269,28 +273,30 @@ DALL·E очень хорошо умеет создавать фотографи
 | strong                  | slow shutter speed |                         |               |
 | shadows                 |                    |                         |               |
 
-### Монстры
+### Монстры  
+
 DALL·E шикарно рисует монстров. Попробуйте.
 
-->[![Telegram @PostOnSteroidsBot DALL·E 2 image](https://i.postimg.cc/PJKYxHQS/photo-2023-05-25-13-01-43.jpg)](https://postimg.cc/N295JWVX)<-
+[![Telegram @PostOnSteroidsBot DALL·E 2 image](https://i.postimg.cc/PJKYxHQS/photo-2023-05-25-13-01-43.jpg)](https://postimg.cc/N295JWVX)
+[![Telegram @PostOnSteroidsBot DALL·E 2 image](https://i.postimg.cc/3JGNwYr9/photo-2023-05-25-16-44-48.jpg)](https://postimg.cc/6y9tjsvG)
+`Монстр в виде печенья с психоделическими цветными глазами, нарисованный на стене в виде граффити, 15mm wide-angle photograph.`
 
-->[![Telegram @PostOnSteroidsBot DALL·E 2 image](https://i.postimg.cc/3JGNwYr9/photo-2023-05-25-16-44-48.jpg)](https://postimg.cc/6y9tjsvG)<-
-->Монстр в виде печенья с психоделическими цветными глазами, нарисованный на стене в виде граффити, 15mm wide-angle photograph.<-
+### История искусства, 2d и 3d, человеческие тела, места и еще куча всего  
 
-### История искусства, 2d и 3d, человеческие тела, места и еще куча всего
 DALL·E все это умеет и знает, и даже больше, чем это.
 Изучайте возможности DALL·E, экспериментируйте. Ищите информацию в интернете.
 И вы получите желаемый результат.
 
-## Другие статьи
-Для более детального изучения работы DALL·E рекомендуем изучить вот эти стати:
-https://journal.tinkoff.ru/how-to-prompt/
-https://www.ixbt.com/live/sw/kak-neyroset-dall-e-risuet-za-menya-i-pomogaet-ekonomit-na-hudozhnike-illyustratore.html
-https://vc.ru/future/619774-chto-takoe-dalle-generator-izobrazheniy-kak-im-polzovatsya-kak-zayti-iz-rossii
-https://xakep.ru/2022/11/07/dalle-experience/
+## Другие статьи  
+
+Для более детального изучения работы DALL·E рекомендуем изучить вот эти стати:  
+[https://journal.tinkoff.ru/how-to-prompt](https://journal.tinkoff.ru/how-to-prompt/)  
+[https://www.ixbt.com/live/sw/kak-neyroset-dall-e-risuet-za-menya-i-pomogaet-ekonomit-na-hudozhnike-illyustratore.html](https://www.ixbt.com/live/sw/kak-neyroset-dall-e-risuet-za-menya-i-pomogaet-ekonomit-na-hudozhnike-illyustratore.html )  
+[https://vc.ru/future/619774-chto-takoe-dalle-generator-izobrazheniy-kak-im-polzovatsya-kak-zayti-iz-rossii](https://vc.ru/future/619774-chto-takoe-dalle-generator-izobrazheniy-kak-im-polzovatsya-kak-zayti-iz-rossii)  
+[https://xakep.ru/2022/11/07/dalle-experience](https://xakep.ru/2022/11/07/dalle-experience/)   
 
 ## Галереи работ, выполненных DALL·E
-Вы можете подписаться [на чат поддержки @PostOnSteroidsBot](https://t.me/postonsteroidschat) - там автоматически публикуются картинки с запросами, которые выполнил DALL·E для пользователей @PostOnSteroidsBot. Картинки ищите по тегу: #картинкаDALL·E2.
+Вы можете подписаться [на чат поддержки @PostOnSteroidsBot](https://t.me/postonsteroidschat) - там автоматически публикуются картинки с запросами, которые выполнил DALL·E для пользователей @PostOnSteroidsBot. Картинки ищите по тегу: #картинкаDALL·E3.
 
 Также есть несколько англоязычных ресурсов:
 https://generrated.com/
