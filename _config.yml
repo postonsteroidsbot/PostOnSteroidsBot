@@ -29,6 +29,8 @@ kramdown:
     block:
       line_numbers: false
 
+search_enabled: false
+
 compress_html:
   clippings: all
   comments: all
