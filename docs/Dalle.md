@@ -19,39 +19,32 @@ nav_order: 2
 3. Получаете результат.
 4. Если результат не устраивает - корректируете описание или отправляете тоже самое, результат каждый раз будет другим.
 
-**Пробуйте до победного**
-Редко удаётся получить желаемый результат с первого раза. 
-
+**Пробуйте до победного**  
 Пробуйте, корректируйте запрос и отправляйте его снова и снова, пока не получите желаемое.
 {: .new } 
 
-->[![Telegram @PostOnSteroidsBot DALL·E 2 image](https://i.postimg.cc/J7PcQ3jS/photo-2023-05-25-13-01-49.jpg)](https://postimg.cc/G9TyLy7j)<-
+[![Telegram @PostOnSteroidsBot DALL·E image](https://i.postimg.cc/J7PcQ3jS/photo-2023-05-25-13-01-49.jpg)](https://postimg.cc/G9TyLy7j)
 `Монстр в виде печенья с психоделическими цветными глазами, нарисованный на стене в виде граффити, 15mm wide-angle photograph.`  
 
-->[![Telegram @PostOnSteroidsBot DALL·E 2 image](https://i.postimg.cc/hGT18H00/1.png)](https://postimg.cc/5H9zbKTH)<-
-->Плакат связанный с музыкальной тематикой, скрипичные ключи, ноты, пластинки, абстракция, аниме, высокое разрешение, 4k.<-
+[![Telegram @PostOnSteroidsBot DALL·E image](https://i.postimg.cc/hGT18H00/1.png)](https://postimg.cc/5H9zbKTH)
+`Плакат связанный с музыкальной тематикой, скрипичные ключи, ноты, пластинки, абстракция, аниме, высокое разрешение, 4k.`
 
-->
-[![Telegram @PostOnSteroidsBot DALL·E 2 image](https://i.postimg.cc/BbYTQsqJ/photo-2023-05-25-13-01-09.jpg)](https://postimg.cc/T5bLCzLs)<-
-->Двое детей мальчик и девочка в солнечный летний день, watercolor.<-
+[![Telegram @PostOnSteroidsBot DALL·E image](https://i.postimg.cc/BbYTQsqJ/photo-2023-05-25-13-01-09.jpg)](https://postimg.cc/T5bLCzLs)
+`Двое детей мальчик и девочка в солнечный летний день, watercolor.`
 
-->[![Telegram @PostOnSteroidsBot DALL·E 2 image](https://i.postimg.cc/V6F9pnpr/photo-2023-05-22-11-16-06.jpg)](https://postimg.cc/bDs22Dzp)<-
-->Артистический рендер лисы сделанный из огня.<-
+[![Telegram @PostOnSteroidsBot DALL·E image](https://i.postimg.cc/V6F9pnpr/photo-2023-05-22-11-16-06.jpg)](https://postimg.cc/bDs22Dzp)
+`Артистический рендер лисы сделанный из огня.`
 
-->[![Telegram @PostOnSteroidsBot DALL·E 2 image](https://i.postimg.cc/Kjv724h9/photo-2023-05-25-13-02-05.jpg)](https://postimg.cc/ZB2vPbR3)<-
-->Радужные смузи с фруктами в хрустальных стаканах, out of focus background.<-
-
-
-
-
+[![Telegram @PostOnSteroidsBot DALL·E image](https://i.postimg.cc/Kjv724h9/photo-2023-05-25-13-02-05.jpg)](https://postimg.cc/ZB2vPbR3)
+`Радужные смузи с фруктами в хрустальных стаканах, out of focus background.`
 
 **Описание картинки** может также называться **запросом**.
 
 В этом руководстве вы узнаете, что такое DALL·E, что он знает и умеет. Получите советы, как формулировать запросы.
 
-Руководство написано с использование информации из The DALL·E 2 Prompt Book - https://dallery.gallery/the-dalle-2-prompt-book/. Если владеете английским, сразу читайте это руководство.
+Руководство написано с использование информации из [The DALL·E 2 Prompt Book](https://dallery.gallery/the-dalle-2-prompt-book/). Если владеете английским, сразу читайте это руководство.
 
-## Немного о DALL·E
+## Немного о DALL·E  
 
 DALL·E не обучали, кто такой Айвазовский, Поллок или как выглядит медведь с балалайкой (кстати, про балалайку DALL·E вообще не знает).
 
@@ -75,7 +68,10 @@ DALL·E понимает объекты, предметы, стили, расп�
 
 А можете и не изменять.
 Вот так DALL·E нарисовал много раз дом, по одному и тому же запросу.
+
 >>Уютный дом в лесу, около дома растут красивые цветы, высокое разрешение, стиль студии Ghibli, масляные краски, 4к.
+{: .important }
+
 [![Telegram @PostOnSteroidsBot DALL·E 2 image](https://i.postimg.cc/87WyVLTx/photo-2023-05-22-10-53-40.jpg)](https://postimg.cc/87WyVLTx)[![Telegram @PostOnSteroidsBot DALL·E 2 image](https://i.postimg.cc/WdRnSt08/photo-2023-05-22-11-14-58.jpg)](https://postimg.cc/WdRnSt08)[![Telegram @PostOnSteroidsBot DALL·E 2 image](https://i.postimg.cc/nC92vq9M/photo-2023-05-23-09-27-41.jpg)](https://postimg.cc/nC92vq9M)[![Telegram @PostOnSteroidsBot DALL·E 2 image](https://i.postimg.cc/4ndBxDJ6/photo-2023-05-23-09-27-57.jpg)](https://postimg.cc/4ndBxDJ6)[![Telegram @PostOnSteroidsBot DALL·E 2 image](https://i.postimg.cc/jw8chXhn/photo-2023-05-23-09-28-07.jpg)](https://postimg.cc/jw8chXhn)[![Telegram @PostOnSteroidsBot DALL·E 2 image](https://i.postimg.cc/18pKdPHQ/photo-2023-05-23-11-56-24.jpg)](https://postimg.cc/18pKdPHQ)[![Telegram @PostOnSteroidsBot DALL·E 2 image](https://i.postimg.cc/bG93Z8DT/photo-2023-05-23-13-29-55.jpg)](https://postimg.cc/bG93Z8DT)[![Telegram @PostOnSteroidsBot DALL·E 2 image](https://i.postimg.cc/hz4MxwVq/photo-2023-05-23-13-36-27.jpg)](https://postimg.cc/hz4MxwVq)[![Telegram @PostOnSteroidsBot DALL·E 2 image](https://i.postimg.cc/LhbvYxXr/photo-2023-05-23-16-54-11.jpg)](https://postimg.cc/LhbvYxXr)[![Telegram @PostOnSteroidsBot DALL·E 2 image](https://i.postimg.cc/t1pzQfSV/photo-2023-05-23-16-54-27.jpg)](https://postimg.cc/t1pzQfSV)[![Telegram @PostOnSteroidsBot DALL·E 2 image](https://i.postimg.cc/JDhctXWr/photo-2023-05-24-08-51-19.jpg)](https://postimg.cc/JDhctXWr)[![Telegram @PostOnSteroidsBot DALL·E 2 image](https://i.postimg.cc/rdjN8J3Z/photo-2023-05-24-10-13-55.jpg)](https://postimg.cc/rdjN8J3Z)[![Telegram @PostOnSteroidsBot DALL·E 2 image](https://i.postimg.cc/Wqp504q8/photo-2023-05-25-15-27-57.jpg)](https://postimg.cc/Wqp504q8)[![Telegram @PostOnSteroidsBot DALL·E 2 image](https://i.postimg.cc/SjmTBg19/photo-2023-05-25-15-29-45.jpg)](https://postimg.cc/SjmTBg19)[![Telegram @PostOnSteroidsBot DALL·E 2 image](https://i.postimg.cc/yWnQs02b/photo-2023-05-25-15-30-27.jpg)](https://postimg.cc/yWnQs02b)
 
 
