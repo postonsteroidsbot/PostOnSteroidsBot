@@ -149,7 +149,7 @@ nav_order: 1
 **Сформулируйте обычным языком, что хотите, чтобы было изображено на картинке, и он постарается вам помочь.**
 
 Конечно, для достижения наилучших результатов надо знать, как лучше всего формулировать запрос на создание картинки. 
-[Об этом можно почитать в этом материале.](https://rentry.co/dall-e-2)
+[Об этом можно почитать в этом материале.](https://postonsteroidsbot.github.io/PostOnSteroidsBot/docs/Dalle.html)
 
 [![Telegram @PostOnSteroidsBot DALL·E 2 image](https://i.postimg.cc/kMSPxMVb/photo-2023-05-25-17-42-13.jpg)](https://postimg.cc/rzqHTkNV)
 Страшный монстр в виде пончика, FNAF, 3d, digital art.
