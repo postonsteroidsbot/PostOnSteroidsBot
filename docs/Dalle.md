@@ -25,10 +25,10 @@ nav_order: 2
 Пробуйте, корректируйте запрос и отправляйте его снова и снова, пока не получите желаемое.
 {: .new } 
 
-[![Telegram @PostOnSteroidsBot DALL·E image](https://i.postimg.cc/J7PcQ3jS/photo-2023-05-25-13-01-49.jpg)](https://postimg.cc/G9TyLy7j)
+[![Telegram @PostOnSteroidsBot DALL·E image](https://i.postimg.cc/3xdf6PTc/4.jpg)](https://postimg.cc/4YR1H2n6)
 `Монстр в виде печенья с психоделическими цветными глазами, нарисованный на стене в виде граффити, 15mm wide-angle photograph.`  
 
-[![Telegram @PostOnSteroidsBot DALL·E image](https://i.postimg.cc/hGT18H00/1.png)](https://postimg.cc/5H9zbKTH)
+[![Telegram @PostOnSteroidsBot DALL·E image](https://i.postimg.cc/MTyF5VSZ/3.jpg)](https://postimg.cc/ZB5HK9nX)
 `Плакат связанный с музыкальной тематикой, скрипичные ключи, ноты, пластинки, абстракция, аниме, высокое разрешение, 4k.`
 
 [![Telegram @PostOnSteroidsBot DALL·E image](https://i.postimg.cc/BbYTQsqJ/photo-2023-05-25-13-01-09.jpg)](https://postimg.cc/T5bLCzLs)
@@ -37,7 +37,7 @@ nav_order: 2
 [![Telegram @PostOnSteroidsBot DALL·E image](https://i.postimg.cc/V6F9pnpr/photo-2023-05-22-11-16-06.jpg)](https://postimg.cc/bDs22Dzp)
 `Артистический рендер лисы сделанный из огня.`
 
-[![Telegram @PostOnSteroidsBot DALL·E image](https://i.postimg.cc/Kjv724h9/photo-2023-05-25-13-02-05.jpg)](https://postimg.cc/ZB2vPbR3)
+[![Telegram @PostOnSteroidsBot DALL·E image](https://i.postimg.cc/Vk62wJj4/2.jpg)](https://postimg.cc/VdxKBLZb)
 `Радужные смузи с фруктами в хрустальных стаканах, out of focus background.`
 
 **Описание картинки** может также называться **запросом**.
