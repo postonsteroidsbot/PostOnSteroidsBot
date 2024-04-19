@@ -31,7 +31,7 @@ nav_order: 2
 [![Telegram @PostOnSteroidsBot DALL·E image](https://i.postimg.cc/MTyF5VSZ/3.jpg)](https://postimg.cc/ZB5HK9nX)
 `Плакат связанный с музыкальной тематикой, скрипичные ключи, ноты, пластинки, абстракция, аниме, высокое разрешение, 4k.`
 
-[![Telegram @PostOnSteroidsBot DALL·E image](https://i.postimg.cc/BbYTQsqJ/photo-2023-05-25-13-01-09.jpg)](https://postimg.cc/T5bLCzLs)
+[![Telegram @PostOnSteroidsBot DALL·E image](https://i.postimg.cc/FRWJ2nmT/5.jpg)](https://postimg.cc/njmzm2Xm)
 `Двое детей мальчик и девочка в солнечный летний день, watercolor.`
 
 [![Telegram @PostOnSteroidsBot DALL·E image](https://i.postimg.cc/V6F9pnpr/photo-2023-05-22-11-16-06.jpg)](https://postimg.cc/bDs22Dzp)
